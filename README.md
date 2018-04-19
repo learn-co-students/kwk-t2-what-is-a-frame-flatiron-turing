@@ -38,3 +38,4 @@ If you like, try replacing the sky **entities** color **attribute** with an imag
 [rejected-chrome-boi]: "https://en.wikipedia.org/wiki/Draft:Chrome_Boi"
 [ecs]: "https://en.wikipedia.org/wiki/Entity%E2%80%93component%E2%80%93system"
 [a-frame-intro]: "https://aframe.io/docs/0.8.0/introduction/"
+<p data-visibility='hidden'>KWK-T2 Objectives</p>
